@@ -1,4 +1,4 @@
-const data = [
+const cases = [
   {
     caseid: '1',
     caseno: 'ARB/18/44',
@@ -7289,3 +7289,5 @@ const data = [
     status: 'Pending',
   },
 ]
+
+module.exports = cases
