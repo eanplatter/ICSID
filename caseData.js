@@ -1,4 +1,4 @@
-{
+const data = {
   data: [
     [
       {
@@ -49379,3 +49379,4 @@
     ]
   ]
 }
+module.exports = data
